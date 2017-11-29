@@ -15,3 +15,7 @@ You can edit the header image by replacing `header.jpg` in `assets/img/`.
 To test this locally, you can run `bundle exec jekyll serve` and access the site on [http://localhost:4000](http://localhost:4000)
 
 This project uses [Jekyll Email Protect](https://github.com/vwochnik/jekyll-email-protect) which obfuscates `mailto:` links to protect email addresses from spam bots.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
