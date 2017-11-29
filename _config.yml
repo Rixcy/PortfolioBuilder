@@ -1,0 +1,30 @@
+# Main page title for the project
+portfolio_title: Portfolio
+email: test@example.com
+github: "https://github.com/myuser"
+linkedin: "https://example.com"
+
+navbar_text: "Example Name"
+header_text: "Example Name"
+button_text: "About me"
+footer_text: "Example Name."
+
+# Build settings
+markdown: redcarpet
+plugins:
+  - jekyll-email-protect
+
+collections:
+  - jobs
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
