@@ -19,3 +19,13 @@ This project uses [Jekyll Email Protect](https://github.com/vwochnik/jekyll-emai
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Examples
+
+This is what it'll look like out of the box:
+
+![screen shot 1](https://user-images.githubusercontent.com/11819124/33386983-15251fe6-d524-11e7-9145-6fd544d69ae5.png)
+
+![screen shot 2](https://user-images.githubusercontent.com/11819124/33387001-1a60b9ca-d524-11e7-92aa-48dfcbe23aab.png)
+
+![screen shot 3](https://user-images.githubusercontent.com/11819124/33387002-1cca2cd2-d524-11e7-8102-7e4d7924b63c.png)
