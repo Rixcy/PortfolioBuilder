@@ -9,6 +9,15 @@ $(function() {
     event.preventDefault();
   });
 
+  $(function(){
+    $('.page-scroll').on('click', function(){
+      setTimeout(function(){
+        $('#mainNav').removeClass('affix-top');
+        $('#mainNav').addClass('affix');
+      }, 400);
+    });
+  });
+
   // Highlight the top nav as scrolling occurs
   $('body').scrollspy({
     target: '.navbar-fixed-top',
